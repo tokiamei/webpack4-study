@@ -1,0 +1,23 @@
+.info {
+  background-color: #5eff00;
+  font: 40px;
+  color: antiquewhite;
+}
+#girl01 {
+  height: 500px;
+  width: 500px;
+  background-size: 100%;
+  background-image: url('../imgs/1259028.jpg');
+  background-repeat: no-repeat;
+}
+#girl02 {
+  height: 500px;
+  width: 500px;
+  background-size: 100%;
+  background-image: url('../imgs/1259043.jpg');
+  background-repeat: no-repeat;
+}
+img {
+  height: 300px;
+  width: 400px;
+}
